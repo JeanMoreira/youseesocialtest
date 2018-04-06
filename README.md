@@ -4,7 +4,7 @@
 
 ## Instação do projeto.
 ----
-baixar a versão sdk no link: [NW.js](https://nwjs.io/), inserir os dois arquivos index.html e package.json no local do mesmo.
+Baixar a versão sdk no link: [NW.js](https://nwjs.io/), inserir os dois arquivos index.html e package.json no local do arquivo.
 ----
 ## Executar 
 
